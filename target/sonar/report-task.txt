@@ -1,0 +1,7 @@
+organization=ashwini1204
+projectKey=ashwini1204
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20278
+dashboardUrl=https://sonarcloud.io/dashboard?id=ashwini1204
+ceTaskId=AXmKewywMx6T_t1pipMJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmKewywMx6T_t1pipMJ
